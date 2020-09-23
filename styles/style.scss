@@ -86,7 +86,7 @@ margin-bottom:5rem;
     color:white;
     text-align: center;
     padding: 15em 0;
-    background: #222;
+    background: rgb(100, 100, 100);
     
     @supports (background-blend-mode: overlay){
         background-image: url(../img/shoe-3.png),
